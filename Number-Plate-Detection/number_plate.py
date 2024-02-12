@@ -1,6 +1,6 @@
 import cv2
 
-harcascade = "model/haarcascade_russian_plate_number.xml"
+harcascade = "haarcascade_russian_plate_number.xml"
 
 cap = cv2.VideoCapture('proto.mp4')
 
