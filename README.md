@@ -1,6 +1,6 @@
 # Wrong-Way-Detection
 
-This project aims to detect vehicles traveling in the wrong direction using computer vision and machine learning techniques.
+This project aims to detect vehicles traveling in the wrong direction using computer vision and machine learning techniques. Published as a research paper at the [15th ICCCNT](https://ieeexplore.ieee.org/abstract/document/10725591).
 
 ## Project Structure
 
